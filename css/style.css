@@ -119,6 +119,7 @@ h3{
 	color: #607d8b;
 	font-size: 23px;
 }
+/**/
 i:hover{
 	color: #2a41be;
 }
@@ -133,6 +134,7 @@ i:hover{
   position: absolute;
   left: 50%;
   transform: translate( -50%);
+/*  */
   
 }
 
